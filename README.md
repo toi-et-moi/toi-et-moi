@@ -1,14 +1,9 @@
 # hi, i'm tom
+designer & student based in france, i'm studying graphic design and designed **[papillon](https://papillon.bzh)**, an educational app used daily by thousands of students
 
-ui designer | student | aspiring creative
+twitter → [@tomthings1](https://x.com/tomthings1)
 
-currently a high school senior in France, with aspirations in ui design.  
-i enjoy creating user-centered interfaces with a mix of flat design and depth for a modern, functional aesthetic.
+portfolio → [tomthings.fr](https://tomthings.fr)
 
-recently contributed to **papillon**, an app aiming to modernize the student experience.  
-i share my design thoughts and work on twitter, where i’ve built a community of 1,000+ followers
+you can reach me by mail at tom@tomthings.fr
 
-## what i'm working on:
-- improving my ui/ux design skills
-- exploring new design trends and tools
-- testing things
